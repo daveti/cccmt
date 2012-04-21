@@ -90,6 +90,9 @@ public class CcmData {
 			case 2:
 				ccmTypeString = "CDMA";
 				break;
+			case 3:
+				ccmTypeString = "ALL";
+				break;
 			default:
 				ccmTypeString = "UNKNOWN DEPT";
 				break;

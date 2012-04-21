@@ -28,7 +28,8 @@ public class Cccmt {
 		CcmData[] ccmDataArrayObj = {
 			new CcmData( 0),	// LCP
 			new CcmData( 1),	// MSI
-			new CcmData( 2)		// CDMA
+			new CcmData( 2),	// CDMA
+			new CcmData( 3)		// ALL
 			};
 
 		// CcmProc
