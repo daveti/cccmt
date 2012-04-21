@@ -1,0 +1,236 @@
+<daveti>
+<fnmetric>
+<file>/home_nbu/daveti/R2608/ipm_cov_off_bsub/glob/src/BSPlinux/sharedIP.c</file>
+<fnmet>task_dup_chk;4;92;63;287;64;20;35;43314.7;0.952626;;;2130</fnmet>
+</fnmetric>
+<fnmetric>
+<file>/home_nbu/daveti/R2608/ipm_cov_off_bsub/glob/src/BSPlinux/sharedIP.c</file>
+<fnmet>check_ip_plumbing;4;63;46;193;70;19;23;46117.5;1.02191;;;1309</fnmet>
+</fnmetric>
+<fnmetric>
+<file>/home_nbu/daveti/R2608/ipm_cov_off_bsub/glob/src/BSPlinux/sharedIP.c</file>
+<fnmet>check_ip_tentative;3;68;47;217;82;23;26;52530;1.08282;;;1565</fnmet>
+</fnmetric>
+<fnmetric>
+<file>/home_nbu/daveti/R2608/ipm_cov_off_bsub/glob/src/BSPlinux/sharedIP.c</file>
+<fnmet>audit_IP_plumbing;1;14;12;30;9;6;5;471.803;0.0288859;;;1518</fnmet>
+</fnmetric>
+<fnmetric>
+<file>/home_nbu/daveti/R2608/ipm_cov_off_bsub/glob/msi/BSPlinux/sharedIP.c</file>
+<fnmet>audit_IPV6_duplicate_ip;2;30;22;196;26;17;12;8491.05;0.230687;;;1799</fnmet>
+</fnmetric>
+<fnmetric>
+<file>/home_nbu/daveti/R2608/ipm_cov_off_bsub/glob/cdma/BSPlinux/sharedIP.c</file>
+<fnmet>set_shared_ip_state_up;1;26;19;102;40;19;10;11946.4;0.309893;;;339</fnmet>
+</fnmetric>
+</daveti>
+Processing abcd.xml
+Start Element: daveti
+Start Element: fnmetric
+Start Element: file
+file: /home_nbu/daveti/R2608/ipm_cov_off_bsub/glob/src/BSPlinux/sharedIP.c
+End Element: file
+Start Element: fnmet
+fnmet: task_dup_chk;4;92;63;287;64;20;35;43314.7;0.952626;;;2130
+----------------------
+Dump Fenmetric Data:
+fileSeparater = /
+fnmetSeparater = ;
+file = /home_nbu/daveti/R2608/ipm_cov_off_bsub/glob/src/BSPlinux/sharedIP.c
+fnmet = task_dup_chk;4;92;63;287;64;20;35;43314.7;0.952626;;;2130
+sourceFileName = sharedIP.c
+deptValue = 0
+functionName = task_dup_chk
+ccmValue = 35
+fnmetFields0 = task_dup_chk
+fnmetFields1 = 4
+fnmetFields2 = 92
+fnmetFields3 = 63
+fnmetFields4 = 287
+fnmetFields5 = 64
+fnmetFields6 = 20
+fnmetFields7 = 35
+fnmetFields8 = 43314.7
+fnmetFields9 = 0.952626
+fnmetFields10 = 
+fnmetFields11 = 
+fnmetFields12 = 2130
+End Element: fnmet
+End Element: fnmetric
+Start Element: fnmetric
+Start Element: file
+file: /home_nbu/daveti/R2608/ipm_cov_off_bsub/glob/src/BSPlinux/sharedIP.c
+End Element: file
+Start Element: fnmet
+fnmet: check_ip_plumbing;4;63;46;193;70;19;23;46117.5;1.02191;;;1309
+----------------------
+Dump Fenmetric Data:
+fileSeparater = /
+fnmetSeparater = ;
+file = /home_nbu/daveti/R2608/ipm_cov_off_bsub/glob/src/BSPlinux/sharedIP.c
+fnmet = check_ip_plumbing;4;63;46;193;70;19;23;46117.5;1.02191;;;1309
+sourceFileName = sharedIP.c
+deptValue = 0
+functionName = check_ip_plumbing
+ccmValue = 23
+fnmetFields0 = check_ip_plumbing
+fnmetFields1 = 4
+fnmetFields2 = 63
+fnmetFields3 = 46
+fnmetFields4 = 193
+fnmetFields5 = 70
+fnmetFields6 = 19
+fnmetFields7 = 23
+fnmetFields8 = 46117.5
+fnmetFields9 = 1.02191
+fnmetFields10 = 
+fnmetFields11 = 
+fnmetFields12 = 1309
+End Element: fnmet
+End Element: fnmetric
+Start Element: fnmetric
+Start Element: file
+file: /home_nbu/daveti/R2608/ipm_cov_off_bsub/glob/src/BSPlinux/sharedIP.c
+End Element: file
+Start Element: fnmet
+fnmet: check_ip_tentative;3;68;47;217;82;23;26;52530;1.08282;;;1565
+----------------------
+Dump Fenmetric Data:
+fileSeparater = /
+fnmetSeparater = ;
+file = /home_nbu/daveti/R2608/ipm_cov_off_bsub/glob/src/BSPlinux/sharedIP.c
+fnmet = check_ip_tentative;3;68;47;217;82;23;26;52530;1.08282;;;1565
+sourceFileName = sharedIP.c
+deptValue = 0
+functionName = check_ip_tentative
+ccmValue = 26
+fnmetFields0 = check_ip_tentative
+fnmetFields1 = 3
+fnmetFields2 = 68
+fnmetFields3 = 47
+fnmetFields4 = 217
+fnmetFields5 = 82
+fnmetFields6 = 23
+fnmetFields7 = 26
+fnmetFields8 = 52530
+fnmetFields9 = 1.08282
+fnmetFields10 = 
+fnmetFields11 = 
+fnmetFields12 = 1565
+End Element: fnmet
+End Element: fnmetric
+Start Element: fnmetric
+Start Element: file
+file: /home_nbu/daveti/R2608/ipm_cov_off_bsub/glob/src/BSPlinux/sharedIP.c
+End Element: file
+Start Element: fnmet
+fnmet: audit_IP_plumbing;1;14;12;30;9;6;5;471.803;0.0288859;;;1518
+----------------------
+Dump Fenmetric Data:
+fileSeparater = /
+fnmetSeparater = ;
+file = /home_nbu/daveti/R2608/ipm_cov_off_bsub/glob/src/BSPlinux/sharedIP.c
+fnmet = audit_IP_plumbing;1;14;12;30;9;6;5;471.803;0.0288859;;;1518
+sourceFileName = sharedIP.c
+deptValue = 0
+functionName = audit_IP_plumbing
+ccmValue = 5
+fnmetFields0 = audit_IP_plumbing
+fnmetFields1 = 1
+fnmetFields2 = 14
+fnmetFields3 = 12
+fnmetFields4 = 30
+fnmetFields5 = 9
+fnmetFields6 = 6
+fnmetFields7 = 5
+fnmetFields8 = 471.803
+fnmetFields9 = 0.0288859
+fnmetFields10 = 
+fnmetFields11 = 
+fnmetFields12 = 1518
+End Element: fnmet
+End Element: fnmetric
+Start Element: fnmetric
+Start Element: file
+file: /home_nbu/daveti/R2608/ipm_cov_off_bsub/glob/msi/BSPlinux/sharedIP.c
+End Element: file
+Start Element: fnmet
+fnmet: audit_IPV6_duplicate_ip;2;30;22;196;26;17;12;8491.05;0.230687;;;1799
+----------------------
+Dump Fenmetric Data:
+fileSeparater = /
+fnmetSeparater = ;
+file = /home_nbu/daveti/R2608/ipm_cov_off_bsub/glob/msi/BSPlinux/sharedIP.c
+fnmet = audit_IPV6_duplicate_ip;2;30;22;196;26;17;12;8491.05;0.230687;;;1799
+sourceFileName = sharedIP.c
+deptValue = 1
+functionName = audit_IPV6_duplicate_ip
+ccmValue = 12
+fnmetFields0 = audit_IPV6_duplicate_ip
+fnmetFields1 = 2
+fnmetFields2 = 30
+fnmetFields3 = 22
+fnmetFields4 = 196
+fnmetFields5 = 26
+fnmetFields6 = 17
+fnmetFields7 = 12
+fnmetFields8 = 8491.05
+fnmetFields9 = 0.230687
+fnmetFields10 = 
+fnmetFields11 = 
+fnmetFields12 = 1799
+End Element: fnmet
+End Element: fnmetric
+Start Element: fnmetric
+Start Element: file
+file: /home_nbu/daveti/R2608/ipm_cov_off_bsub/glob/cdma/BSPlinux/sharedIP.c
+End Element: file
+Start Element: fnmet
+fnmet: set_shared_ip_state_up;1;26;19;102;40;19;10;11946.4;0.309893;;;339
+----------------------
+Dump Fenmetric Data:
+fileSeparater = /
+fnmetSeparater = ;
+file = /home_nbu/daveti/R2608/ipm_cov_off_bsub/glob/cdma/BSPlinux/sharedIP.c
+fnmet = set_shared_ip_state_up;1;26;19;102;40;19;10;11946.4;0.309893;;;339
+sourceFileName = sharedIP.c
+deptValue = 2
+functionName = set_shared_ip_state_up
+ccmValue = 10
+fnmetFields0 = set_shared_ip_state_up
+fnmetFields1 = 1
+fnmetFields2 = 26
+fnmetFields3 = 19
+fnmetFields4 = 102
+fnmetFields5 = 40
+fnmetFields6 = 19
+fnmetFields7 = 10
+fnmetFields8 = 11946.4
+fnmetFields9 = 0.309893
+fnmetFields10 = 
+fnmetFields11 = 
+fnmetFields12 = 339
+End Element: fnmet
+End Element: fnmetric
+End Element: daveti
+==============================================
+Coverity Code Complexity Metrics (CCM) for LCP
+4 total functions
+0 functions with CCM >=50
+3 functions with CCM <50 >=20
+0 functions with CCM <20 >=10
+1 functions with CCM <10
+==============================================
+Coverity Code Complexity Metrics (CCM) for MSI
+1 total functions
+0 functions with CCM >=50
+0 functions with CCM <50 >=20
+1 functions with CCM <20 >=10
+0 functions with CCM <10
+==============================================
+Coverity Code Complexity Metrics (CCM) for CDMA
+1 total functions
+0 functions with CCM >=50
+0 functions with CCM <50 >=20
+1 functions with CCM <20 >=10
+0 functions with CCM <10

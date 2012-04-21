@@ -1,0 +1,22 @@
+cccmt
+
+Coverity Code Complexity Metrics Tool
+
+Originated by Dave Tian (daveti)
+on April 20, 2012
+Emails:
+dave.tian@alcatel-lucent.com
+dave.jing.tian@gmail.com
+Blog:
+http://daveti.blog.com
+
+NOTE:
+1. cccmt is written on NetBeans 7.1 using Java.
+2. Default METRICS.errors.xml does NOT have a root element.
+3. Need to add <daveti> and </daveti> at the begin and end of xml file to make sure our XML is well-formatted.
+4. java -jar cccmt -f abcd.xml
+5. JDK 1.6 and above is need!
+
+Thanks,
+Dave
+April 21, 2012
